@@ -12,4 +12,4 @@
   Just download as a zip, extract and run the main.py from cmd on Windows and terminal on macOS/Linux with 2 parameters shown in the 2nd section ^^^. You might want to edit the data in the file, though it's pretty basic and non-useful.
 
 # Contact the developer <3
-  My email is ben@mehmetefeakca.me, just send an email my way ^-^. You can also just message me on twitter @trMMDF or send a message over Github. There is no way you can't contact me.
+  My email is ben@mehmetefeakca.me, just send an email my way ^-^. You can also just message me on twitter @trMMDF. There is no way you can't contact me.
