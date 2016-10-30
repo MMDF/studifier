@@ -1,5 +1,5 @@
 # The Ultimate Studifier! Helps you study!
-  Yes the name is weird. But it is fitting. This python program is developed to help you(me too!) study! The first version developed under 30 minutes!
+  Yes the name is weird. But it is fitting. This python program is developed to help you(and me) to study! The first version developed under 30 minutes!
 ### Takes 2 parameters
   The first is the filename that contains the data, the second is the mode you want. We have 2 modes first one is "e" for explicit, the second one is "ne" for non-explicit.
 
