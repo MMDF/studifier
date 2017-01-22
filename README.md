@@ -1,3 +1,7 @@
+# Suspended Development
+There are ongoing and better applications for this purpose. This project is no longer in development. 
+
+
 # The Ultimate Studifier! Helps you study!
   Yes the name is weird. But it is fitting. This python program is developed to help you(and me) to study! The first version developed under 30 minutes!
 ### Takes 2 parameters
